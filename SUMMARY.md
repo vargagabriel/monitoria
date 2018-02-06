@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [Capítulo 1](cap1/README.md)
+* [Informações sobre a monitoria](README.md)
+* [Lista 1 - Análise Exploratória de Dados](cap1/README.md)
     * [Item 1](cap1/item1/README.md)
     * [Item 2](cap1/item2/README.md)
     * [Item 3](cap1/item3/README.md)
